@@ -12,6 +12,7 @@ public class FirstSeleniumClass {
         driver.get("https://google.com");
 
         System.out.println();
+        System.out.println();
 
 
 
